@@ -1,0 +1,15 @@
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\bin\Debug\net10.0\CafeOrderingSystem.exe
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\bin\Debug\net10.0\CafeOrderingSystem.deps.json
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\bin\Debug\net10.0\CafeOrderingSystem.runtimeconfig.json
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\bin\Debug\net10.0\CafeOrderingSystem.dll
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\bin\Debug\net10.0\CafeOrderingSystem.pdb
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.AssemblyInfoInputs.cache
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.AssemblyInfo.cs
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.dll
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\refint\CafeOrderingSystem.dll
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.pdb
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.genruntimeconfig.cache
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\ref\CafeOrderingSystem.dll
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrde.4E707E0C.Up2Date

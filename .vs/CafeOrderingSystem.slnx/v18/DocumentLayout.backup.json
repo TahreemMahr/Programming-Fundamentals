@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\orders\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\orders\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\orders\\ordersui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\orders\\ordersui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\orders\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\orders\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\customers\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\customers\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\customers\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\customers\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\orders\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\orders\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\cart\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\cart\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\products\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\products\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\products\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\products\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\main menu\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\main menu\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\cart\\cartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\cart\\cartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\cart\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\cart\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\cart\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\cart\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\products\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\products\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\customers\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\customers\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|c:\\users\\tahreem\\desktop\\c#1\\cafeorderingsystem\\cafeorderingsystem\\customers\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CF28B8-6498-90F3-BFCF-FA9F411E1A9C}|CafeOrderingSystem\\CafeOrderingSystem.csproj|solutionrelative:cafeorderingsystem\\customers\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Orders\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Orders\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Orders\\OrderRepository.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Orders\\OrderRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T14:52:52.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Customers\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Customers\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Customers\\CustomerService.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Customers\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:41:41.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Orders\\OrdersService.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Orders\\OrdersService.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Orders\\OrdersService.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Orders\\OrdersService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T14:54:17.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersUI.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Orders\\OrdersUI.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Orders\\OrdersUI.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Orders\\OrdersUI.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Orders\\OrdersUI.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwHwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T14:54:45.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Program.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T18:26:56.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Orders\\OrderModel.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Orders\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Orders\\OrderModel.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Orders\\OrderModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T14:52:19.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Customers\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Customers\\CustomerUI.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Customers\\CustomerUI.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Customers\\CustomerUI.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:42:00.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Cart\\CartService.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Cart\\CartService.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Cart\\CartService.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Cart\\CartService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T17:58:43.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Products\\ProductUI.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Products\\ProductUI.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Products\\ProductUI.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Products\\ProductUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T17:37:35.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Products\\ProductService.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Products\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Products\\ProductService.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Products\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:04:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Products\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Products\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Products\\ProductRepository.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Products\\ProductRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:13:00.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Main Menu\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Main Menu\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Main Menu\\MainMenuUI.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Main Menu\\MainMenuUI.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T17:28:03.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartUI.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Cart\\CartUI.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Cart\\CartUI.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Cart\\CartUI.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Cart\\CartUI.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAcwF4BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T18:05:16.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Cart\\CartRepository.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Cart\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Cart\\CartRepository.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Cart\\CartRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T17:48:02.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Cart\\CartModel.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Cart\\CartModel.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Cart\\CartModel.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Cart\\CartModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T17:46:58.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Products\\ProductModel.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Products\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Products\\ProductModel.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Products\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:14:31.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Customers\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Customers\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Customers\\CustomerRepository.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Customers\\CustomerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:41:17.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Customers\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "CafeOrderingSystem\\Customers\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\Tahreem\\Desktop\\C#1\\CafeOrderingSystem\\CafeOrderingSystem\\Customers\\CustomerModel.cs",
+              "RelativeToolTip": "CafeOrderingSystem\\Customers\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:40:52.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
