@@ -20,6 +20,7 @@ namespace CafeOrderingSystem.Products
                         product.FOODNAME + "|" +
                         product.FOODPRICE + "|" +
                         product.FOODSTOCK + "|" +
+                        product.FILTERPRODUCT + "|" +
                         product.FOODCATEGORY
                         );
 
@@ -47,12 +48,14 @@ namespace CafeOrderingSystem.Products
                         
                         int stock = int.Parse(data[2]);
                         string category = data[3];
+                        string filterproducts = data[4];
 
                         ProductModel product = new ProductModel(
                             name,
                             price,
                             category,
-                            stock
+                            stock,
+                            filterproducts
                         );
 
                         products.Add(product);

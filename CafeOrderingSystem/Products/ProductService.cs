@@ -39,7 +39,8 @@ namespace CafeOrderingSystem.Products
             foreach (ProductModel product in products)
             {
                 if (product.FOODNAME == productName)
-                {
+                { 
+               
                     return product;
                 }
             }
@@ -74,7 +75,23 @@ namespace CafeOrderingSystem.Products
 
             return false;
         }
+        //Filter Products
+        public   ProductModel FilterProduct(string productName)
+        {
+            List<ProductModel> products = new List<ProductModel>();
 
+            foreach (ProductModel product in products)
+            {
+                if (product.FOODNAME == productName )
+                {
+
+                    return product;
+                }
+            }
+
+            return null;
+          
+        }
         // 5. Delete Product
         public bool DeleteProduct(string productName)
         {

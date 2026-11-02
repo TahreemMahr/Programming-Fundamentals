@@ -13,3 +13,4 @@ C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net
 C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.genruntimeconfig.cache
 C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\ref\CafeOrderingSystem.dll
 C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrde.4E707E0C.Up2Date
+C:\Users\Tahreem\Desktop\C#1\CafeOrderingSystem\CafeOrderingSystem\obj\Debug\net10.0\CafeOrderingSystem.sourcelink.json

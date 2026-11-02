@@ -10,15 +10,16 @@ namespace CafeOrderingSystem.Products
         private int foodprice;
         private string foodcategory;
         private int foodstock;
+        private string filterproducts;
 
 
     
-    public ProductModel(string name,int price,string category,int stock){
+    public ProductModel(string name,int price,string category,int stock,string filter){
             foodname = name;
             foodprice = price;
             foodcategory = category;
             foodstock = stock;
-
+            filterproducts = filter;
 
         }
         public string FOODNAME
@@ -64,6 +65,17 @@ namespace CafeOrderingSystem.Products
             set
             {
                 foodstock = value;
+            }
+        }
+        public string FILTERPRODUCT
+        {
+            get
+            {
+                return filterproducts;
+            }
+            set
+            {
+                filterproducts= value;
             }
         }
     }

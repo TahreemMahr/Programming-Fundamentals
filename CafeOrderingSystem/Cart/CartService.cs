@@ -179,7 +179,8 @@ namespace CafeOrderingSystem.Cart
             int total = 0;
 
             foreach (CartModel item in cart)
-            {
+            { 
+               
                 total += item.SUBTOTAL;
             }
 
